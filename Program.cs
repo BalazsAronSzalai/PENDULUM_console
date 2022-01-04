@@ -40,7 +40,7 @@ namespace PENDULUM_console
 
             albumOrTrack = ALBUMS;
 
-            FileStream fs = new FileStream("pendulum.txt", FileMode.Open);
+            FileStream fs = new FileStream("..\\..\\res\\pendulum.txt", FileMode.Open);
             StreamReader sr = new StreamReader(fs);
             while (!sr.EndOfStream)
             {
@@ -129,7 +129,8 @@ namespace PENDULUM_console
             sw.Close();
             fs2.Close();
 
-            FileStream fs3 = new FileStream("pendulum.txt", FileMode.Open);
+            //hibas SQL kimenet
+            /*FileStream fs3 = new FileStream("..\\..\\res\\tankcsapda.txt", FileMode.Open);
             StreamReader sr2 = new StreamReader(fs3);
             while (!sr2.EndOfStream)
             {
@@ -216,7 +217,7 @@ namespace PENDULUM_console
             }
 
             sw2.Close();
-            fs4.Close();
+            fs4.Close();*/
         }
     }
 }
