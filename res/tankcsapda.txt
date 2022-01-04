@@ -1,0 +1,39 @@
+[albums]
+tcs1;Tankcsapda;Liliput Hollywood;2019-09-30
+tcs2;Tankcsapda;Aranyország;2001-02-20
+tcs3;Tankcsapda;Urai vagyunk a helyzetnek;2014-10-01
+[tracks]
+A világ posztol;4:44;tcs1;PIXEviRAqc0
+Szevasz öcsém;3:31;tcs1;4u9xwyXN6l0
+Megölni engem;3:50;tcs1;e0SsLOnVCL8
+A gyűlölet a régi;4:00;tcs1;null
+Ülj le mellém;4:26;tcs1;eyliPfXpWKQ
+Pattanások és szemüvegek;3:12;tcs1;null
+Liliput Hollywood;3:46;tcs1;uGLzbeVYeSg
+Amit a vér kíván;3:05;tcs1;null
+Hívjuk inkább úgy;4:14;tcs1;null
+Nincsenek szavak;4:33;tcs1;kw-GL6OxjSQ
+Vigyetek haza!;3:18;tcs2;null
+Agyarország;4:18;tcs2;null
+Mindig péntek;4:48;tcs2;poPQ8rdcoms
+Ez az a ház;3:32;tcs2;L0pvTDRQCQk
+Akinek látsz;4:58;tcs2;null
+Föld és ég;6:58;tcs2;null
+Üdvözöl a Pokol;3:36;tcs2;Yor37cKUN-E
+A világ disco;4:40;tcs2;null
+Itt vannak a Tankok;2:57;tcs2;null
+Meg kell halnom;4:40;tcs2;null
+Nem ver át;3:08;tcs2;null
+Aki nem vak;4:42;tcs2;null
+Megkapod, ami jár;2:31;tcs2;null
+A zene betemet;4:35;tcs3;null
+Semmi pánik;3:34;tcs3;null
+Egyedül a világ ellen;3:09;tcs3;Bjt6U9Ojz1Q
+Koponyák és csontvázak;5:58;tcs3;vYbTIjsJHaw
+Olyan mint rég;4:03;tcs3;null
+Vörös rúzs;4:20;tcs3;null
+Ez egy ilyen nap;5:04;tcs3;null
+Térdre borulnak a gyengék;2:56;tcs3;null
+Köpök rátok;4:04;tcs3;_Ta8dygSNHU
+Lélekhangokból;4:36;tcs3;hqDxscwzulo
+Sállállállá (Csak bennem bízz);5:08;tcs3;null
