@@ -102,11 +102,12 @@ namespace PENDULUM_console
                 "title varchar(255) not null,\n" +
                 "relase date);\n\n" +
                 "create table Tracks(\n" +
-                "id int primary key identity\n" +
+                "id int primary key identity,\n" +
                 "title varchar(255) not null,\n" +
-                "length time\nalbum varchar(4) foreign key(Albums id),\n" +
-                "url varchar(30));");
-
+                "length time,\n" +
+                "album varchar(4) foreign key(Albums id),\n" +
+                "url varchar(30)\n);\n\n");
+            sw.Write("INSERT INTO Albums VALUES(\n");
             for (int i = 0; i < albums.Count; i++)
             {
                 album a = albums[i];
@@ -115,7 +116,8 @@ namespace PENDULUM_console
                     a.title+","+
                     a.relase);
             }
-
+            sw.Write(");\n\n");
+            sw.Write("INSERT INTO Tracks VALUES(\n");
             for (int i = 0; i < tracks.Count; i++)
             {
                 track tr = tracks[i];
@@ -125,6 +127,7 @@ namespace PENDULUM_console
                     tr.album+","+
                     tr.url);
             }
+            sw.Write(");");
 
             sw.Close();
             fs2.Close();
